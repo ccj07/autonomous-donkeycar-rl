@@ -63,6 +63,13 @@ Agent 直接以車載攝影機影像作為輸入，經灰階轉換、正規化�
 ```
 
 ---
+
+## 模型下載
+所有的 Checkpoints 皆存放於 Google Drive：
+- [點此手動存取 Google Drive 雲端資料夾](https://drive.google.com/drive/folders/1oVuT6fCkiFDSvvKCxKNhMBLwHbacRCvh)
+
+---
+
 ## AI 揭露
 自動化評估架構與批次處理邏輯主要由 Google Gemini 生成
 
